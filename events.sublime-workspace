@@ -1,0 +1,487 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"portoflo",
+				"PORTOFLOADING"
+			],
+			[
+				"PLACEOFDE",
+				"PLACEOFDELIVERY"
+			],
+			[
+				"PO",
+				"PORTOFLOADINGCOUNTRYCODE"
+			],
+			[
+				"PORTOFD",
+				"PORTOFDISCHARGE"
+			],
+			[
+				"suc",
+				"successcb"
+			],
+			[
+				"PORT",
+				"PORTOFDISCHARGE"
+			],
+			[
+				"PORTOFDIS",
+				"PORTOFDISCHARGECOUNTRYCODE"
+			],
+			[
+				"PORTL",
+				"PORTOFLOADINGCODE"
+			],
+			[
+				"PORTOFLO",
+				"PORTOFLOADINGCOUNTRYCODE"
+			],
+			[
+				"PLA",
+				"PLACEOFRECEIPTCOUNTRYCODE"
+			],
+			[
+				"PLACE",
+				"PLACEOFRECEIPTCOUNTRYCODE"
+			],
+			[
+				"PLACEOFRE",
+				"PLACEOFRECEIPTLOCATIONCODE"
+			],
+			[
+				"POR",
+				"PORTOFLOADINGLOCATIONCODE"
+			],
+			[
+				"PROT",
+				"PORTOFLOADINGCOUNTRYCODE"
+			],
+			[
+				"event",
+				"eventData"
+			],
+			[
+				"up",
+				"upVoteCount"
+			],
+			[
+				"contr",
+				"controllers"
+			],
+			[
+				"Event",
+				"EventController"
+			],
+			[
+				"rol",
+				"roleId"
+			],
+			[
+				"LastUpdat",
+				"LastUpdatedOn"
+			],
+			[
+				"Las",
+				"LastUpdatedOn"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 285.0,
+		"selected_items":
+		[
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack:in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 410.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/mike.hatfield.NICOM/Desktop/TEMP.SQL",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/services/EventData.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/controllers/EventController.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/EventDetails.html",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/index.html",
+		"/C/Users/mike.hatfield.NICOM/Downloads/angularjs-fundamentals/materials/3-angularjs-fundamentals-m3-services-exercise-files/ExerciseFiles/m3-services-after/Events/scripts/web-server.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/scripts/web-server.js",
+		"/C/Users/mike.hatfield.NICOM/Downloads/angularjs-fundamentals/materials/3-angularjs-fundamentals-m3-services-exercise-files/ExerciseFiles/m3-services-after/Events/app/js/services/GravatarUrlBuilder.js",
+		"/C/Users/mike.hatfield.NICOM/Downloads/angularjs-fundamentals/materials/3-angularjs-fundamentals-m3-services-exercise-files/ExerciseFiles/m3-services-after/Events/app/EditProfile.html",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/app.js",
+		"/C/Users/mike.hatfield.NICOM/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/filters.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/controllers/EditEventController.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/NewEvent.html",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/css/app.css",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/css/bootstrap.min.css",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/app/js/controllers.js",
+		"/C/projects/Sandbox/angularjs/pluralsight/events/EventDetails.html",
+		"/C/Users/mike.hatfield.NICOM/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/mike.hatfield.NICOM/Desktop/angular-seed-master/scripts/test.bat",
+		"/P/CLIENTS/NicomIT/MBRS/Received Files/parse.coffee",
+		"/C/Users/mike.hatfield.NICOM/Desktop/materials/1-angularjs-fundamentals-m1-intro-exercise-files/Demos/Original/HelloWorld/Index.html",
+		"/C/Users/mike.hatfield.NICOM/Desktop/angular-seed-master/scripts/web-server.js",
+		"/C/Users/mike.hatfield.NICOM/Desktop/angular-seed-master/scripts/e2e-test.bat",
+		"/C/projects/Sandbox/angularjs/angello/js/app.js",
+		"/C/projects/Sandbox/angularjs/angello/app.html",
+		"/C/projects/nsda/workspace/src/NSDA Web Service/MemberService.asmx.cs",
+		"/C/Users/mike.hatfield.NICOM/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/mike.hatfield.NICOM/AppData/Roaming/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/C/projects/Sandbox/typescript/greeting.ts",
+		"/C/Users/mike.hatfield.NICOM/Desktop/query-results.rpt",
+		"/C/projects/Sandbox/typescript/greeting.js",
+		"/P/CLIENTS/Port of Halifax/Web Site/Live Website/english/cargo/port-conditions/processPortConditions.aspx.cs",
+		"/C/Users/mike.hatfield.NICOM/AppData/Roaming/Sublime Text 2/Packages/User/TypeScript Compiler.sublime-settings",
+		"/C/projects/port of halifax/cruisehalifax.ca/Web.config",
+		"/C/projects/Nicom/MBRS/received files/20120802.ar.3647",
+		"/C/projects/Port of Halifax/halifaxgetsitthere.ca/backup/backups/20130222/web.config",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/app.js",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.WebClient/UserControls/LoadingMessage.ascx",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.WebClient/Layouts/Desktop.Master",
+		"/C/projects/ABS/Approach360/working/src/Approach360.SubSonic/Generate.bat",
+		"/C/projects/ABS/Approach360/working/src/Database Scripts/201301290938 - Remove secondarySource column from Appointments table.sql",
+		"/C/Users/mike.hatfield.NICOM/Desktop/Berths__Berth_Areas__and_GL_Codes.txt",
+		"/C/projects/ABS/Approach360/working/src/Database Scripts/201301290728 - Add turnoverManagerId to Appointments table.sql",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.IE5/MX4VGCYF/202963_test/primanotifica.aspx.vb",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website/controls/CalendarWeekly.ascx.cs.r4059",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website/controls/CalendarWeekly.ascx.cs",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website.Presentation/Repository/Dealers/AppointmentRepository.cs.r4059",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website.Presentation/Repository/Dealers/AppointmentRepository.cs",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Data.Converter/Program.cs.r4059",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Data.Converter/Program.cs",
+		"/C/projects/ABS/Approach360/working/src/Database Scripts/201301241523 - Add Employees FK to Appoinments table.sql",
+		"/C/projects/APA/Web Portals/workspace/src/Apa.WebPortal.Site/App_Data/CommitteeDb",
+		"/C/projects/APA/Web Portals/backup/2013-01-24 0719/App_Data/CommitteeDb",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website/dealers/ReportMasterList.aspx",
+		"/C/projects/ABS/Approach360/working/src/Approach360.Website/dealers/DealerMaster.master",
+		"/C/projects/Port of Halifax/halifaxseaport.ca/EventCalendar/src/EventCalendar.Data/EventCalendar.Data.csproj",
+		"/C/projects/Port of Virginia/CDTMS/workspace/src/Data/201301171425 - Modified dashGetAtAGlanceData.sql",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/Web.config",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/MiniCalendar.aspx",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/index.html",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/Web 3.config",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/Web 2.config",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/index.aspx.cs",
+		"/C/projects/ABS/Approach360/working/src/Database Scripts/201301211138 - Add Employees FK to EmployeeRoles.sql",
+		"/C/projects/ABS/Approach360/working/src/Database Scripts/201301211140 - Add Employees FK to ProjectionsAndProgress.sql",
+		"/W/Nicom IT Solutions (client)/Cruise-Halifax-1-15-2013/index.html",
+		"/C/projects/Nicom/MiData Reporting/Workspace/README.txt",
+		"/C/oss/apps/mongodb/mongod.cfg",
+		"/C/projects/Sandbox/node/chapter_1/views/index.jade",
+		"/C/projects/Sandbox/node/chapter_1/views/layout.jade",
+		"/C/projects/Sandbox/node/chapter_1/js/example_2_2.js",
+		"/C/projects/Sandbox/node/chapter_1/js/example_2_1.js",
+		"/C/projects/Sandbox/node/chapter_1/index.html",
+		"/C/projects/Sandbox/node/index.html",
+		"/C/projects/Sandbox/node/chapter_1/views/stooges.jade",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201301140940 - Create SecurityAudit table.sql",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/processPortConditions.aspx.cs",
+		"/C/Creative Suite CS2/Acrobat Pro 8.0.txt",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/daily-status-report.aspx.cs",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/daily-status-report-confirmation.aspx.cs",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201301090935 - Create USP_PermissionsRoles_DELETE_ALL_ROLEPERMISSIONS_FOR_ROLE stored procedure.sql",
+		"/C/projects/ABS/Approach360/svn/trunk/src/AssemblyInfo.cs",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/daily-status-report-service.aspx.cs",
+		"/C/Users/mike.hatfield.NICOM/AppData/Local/Temp/fz3temp-1/WebHelper.cs",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201301090935 - Create USP_PermissionsRoles_DELETE_ALL_ROLEPERMISSIONS_FOR_ROLE stored procedure.sqll",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201301081539 - Create relationship and FK index for PermissionsRoles and Roles.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201301081535 - Create Permissions Roles crossjoin table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212200827- Create and populate Spelling Substitutions table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212051317 - Create and populate Vessels table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212070826 - Create and populate RolesUsers cross join  table.sql",
+		"/C/Users/mike.hatfield.NICOM/Desktop/Web.config",
+		"/C/projects/Nicom/MBRS/workspace/README.txt",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.sln",
+		"/C/Users/mike.hatfield.NICOM/Desktop/app.config",
+		"/C/projects/Port of Virginia/CDTMS/workspace/src/CTS Query/CDTMS_Client_Install.iss",
+		"/C/projects/Port of Virginia/CDTMS/workspace/src/CTS Query/CDTMS_Client_Install_NicomOnly.iss",
+		"/C/Users/mike.hatfield.NICOM/Desktop/test.html",
+		"/C/Users/mike.hatfield.NICOM/SkyDrive/Nicom/MBRS System Design/Received Files/Integration/August 6.htm",
+		"//webserver/Websites2/Nicom IT Solutions (client)/mbrs/preview/Web.config",
+		"/C/deploy/preview/Web.config",
+		"//webserver/Websites2/Nicom IT Solutions (client)/mbrs/preview/Maintenance/MaintainRoles.aspx",
+		"//webserver/Websites2/Nicom IT Solutions (client)/mbrs/preview/Global.asax",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.WebClient/Global.asax.cs",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.WebClient/Nicom.Mbrs.WebClient.csproj",
+		"/C/temp/mypage/MaidenMoon.html",
+		"/C/projects/Port of Halifax/halifaxgetsitthere.ca/backup/src/website/ttc-admin/EditOceanTransitTimes.aspx",
+		"/C/projects/Port of Halifax/halifaxgetsitthere.ca/backup/src/website-old/ttc-admin/EditOceanTransitTimes.aspx",
+		"/W/Nicom IT Solutions (client)/halifaxgetsitthere.ca/en/shipping-tools/js/app/ttc/app.js",
+		"/C/projects/Port of Halifax/halifaxgetsitthere.ca/backup/src/website/ttc-admin/OceanTransitTimeRow.ascx",
+		"/C/projects/Nicom/MBRS/ken/src/Nicom.Mbrs.Business/Models/LookupTypes.cs",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.WebClient/Maintenance/MaintainUsers.aspx",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212070924 - Create and populate Users table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212070825 - Create and populate Roles table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212070832 - Create relationship and FK indexes for RolesUsers cross join table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.Data/MbrsModel.edmx",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.Data/MbrsModel.Context.cs",
+		"/C/Users/mike.hatfield.NICOM/Desktop/Query2.csv",
+		"/C/Users/mike.hatfield.NICOM/Desktop/Query2.txt",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.Business/Models/LookupValue.cs",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212051049 - Create and populate LookupValues table with Vessel Types.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Nicom.Mbrs.Business/Models/LookupValue.cs.merge-left.r3682",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212041222 - Create and populate UnLocationCodes table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212040833 - Create UnCountryCodes table.sql",
+		"/C/Users/mike.hatfield.NICOM/Desktop/CountryCodes.txt",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212041143 - Add base properties to UnLocationCodes table.sql",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212041151 - Populate UnLocationCodes table.txt",
+		"/C/projects/Nicom/MBRS/workspace/src/Database/Change Scripts/201212040847 - Populate UnCountryCodes table.sql"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\projects\\Port of Virginia\\CDTMS\\src\\CDTMS Installer"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^",
+			"Register",
+			",\\w",
+			"[\\[\\]]",
+			"theme",
+			"TSP_AddBerth",
+			"' '",
+			",",
+			"\\t",
+			"\"$",
+			"2005",
+			"CalendarContainer",
+			"MiniCalendarDiv",
+			"business",
+			"\\n",
+			"Roles",
+			"  ",
+			"^\\n",
+			"\\n",
+			"VesselType",
+			"\"",
+			"'",
+			"\"",
+			"'",
+			",,",
+			"\"NULL\"",
+			",",
+			" ",
+			"\\n",
+			"]",
+			"[",
+			"LastModifiedOn",
+			"LastModifiedBy",
+			"\"",
+			"'",
+			"')",
+			"INSERT INTO UnCountryCodes (Code, Name) VALUES (",
+			"\"",
+			"'",
+			"\\n",
+			" ",
+			"sap ",
+			"dependencies",
+			"depend",
+			"printpreview",
+			"4",
+			"13.0.2000.0",
+			"Cryst",
+			"PilotShares",
+			"shares"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"-- \\t",
+			"\\t",
+			"^\\t",
+			",\\ \\w",
+			"",
+			"TSP_CreateBerth",
+			"''",
+			"','",
+			",",
+			"\" />",
+			", ",
+			"",
+			"VesselTypeId",
+			"'",
+			"''",
+			"'",
+			"''",
+			",NULL,",
+			"NULL",
+			", ",
+			"",
+			"LastUpdatedOn",
+			"LastUpdatedBy",
+			"'",
+			"''",
+			"'",
+			"EXEC USP_CreateCountryCodeRecord ",
+			"'",
+			"''",
+			",\\n",
+			"",
+			"11.5.3300.0"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"eventda",
+				"app/js/services/EventData.js"
+			],
+			[
+				"eventcon",
+				"app/js/controllers/EventController.js"
+			],
+			[
+				"html",
+				"app/EventDetails.html"
+			],
+			[
+				"evecon",
+				"app/js/controllers/EventController.js"
+			],
+			[
+				"new",
+				"app/NewEvent.html"
+			],
+			[
+				"a.cs",
+				"app/css/app.css"
+			],
+			[
+				"app.j",
+				"app/js/app.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true
+}
