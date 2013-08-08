@@ -2,5 +2,5 @@ var eventsApp = {};
 
 (function(){
   'use strict';
-  eventsApp = angular.module('eventsApp', []);
+  eventsApp = angular.module('eventsApp', ['ngResource']);
 }());
