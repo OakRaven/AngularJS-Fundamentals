@@ -8,16 +8,14 @@
 </head>
 <body ng-cloak>
     <div class="container">
-        <div ng-controller="CacheSampleController" style="padding: 20px;">
+        <div ng-controller="CompileSampleController" style="padding: 20px;">
 
-            key: <input type="text" ng-model="key"><br>
-            value: <input type="text" ng-model="value"><br>
-            <button type="button" class="btn" ng-click="addToCache(key, value)">Add to Cache</button>
+            <div id="appendHere"></div>
             <br>
-            <br>
-            <input type="text" ng-model="keyToRead"><br>
-            <h3>Value from cache: {{readFromCache(keyToRead)}}</h3>
-            <h3>Cache status: {{getCacheState()}}</h3>
+            name: <input type="text" ng-model="name"><br>
+            markup: <input type="text" ng-model="markup"><br>
+            <button class="btn" ng-click="appendDivToElement(markup)">Append</button>
+
         </div>
     </div>
 
@@ -27,7 +25,7 @@
     <script src="/lib/angular/angular-cookies.js"></script>
     <script src="/lib/underscore-1.4.4.min.js"></script>
     <script src="/js/app.js"></script>
-    <script src="/js/controllers/CacheSampleController.js"></script>
+    <script src="/js/controllers/CompileSampleController.js"></script>
     <script src="/lib/bootstrap.min.js"></script>
 
 </body>
