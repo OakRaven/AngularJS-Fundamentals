@@ -1,5 +1,8 @@
 <div style="padding-left: 20px; padding-right: 20px;">
   <img alt="{{event.name}}" ng-src="{{event.imageUrl}}">
+
+  <button class="btn" ng-click="reload()">Reload</button>
+
   <div class="row">
     <div class="span11">
       <h2>{{event.name | uppercase}}</h2>
