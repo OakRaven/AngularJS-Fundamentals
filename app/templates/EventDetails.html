@@ -1,66 +1,61 @@
-<div style="padding-left: 20px; padding-right: 20px;">
-  <img alt="{{event.name}}" ng-src="{{event.imageUrl}}">
-
-  <button class="btn" ng-click="reload()">Reload</button>
-
-  <div class="row">
-    <div class="span11">
-      <h2>{{event.name | uppercase}}</h2>
-    </div>
+<img alt="{{event.name}}" ng-src="{{event.imageUrl}}">
+<div class="row">
+  <div class="span11">
+    <h2>{{event.name | uppercase}}</h2>
   </div>
-  <div class="row">
-    <div class="span3">
-      <div><strong>Date: </strong> {{event.date | date:'mediumDate'}}</div>
-      <div><strong>Time: </strong> {{event.time}}</div>
-    </div>
-    <div class="span4">
-      <address><strong>Address: </strong> <br />
-        {{event.location.address}}<br />
-        {{event.location.city}}, {{event.location.province}}
-      </address>
-    </div>
+</div>
+<div class="row">
+  <div class="span3">
+    <div><strong>Date: </strong> {{event.date | date:'mediumDate'}}</div>
+    <div><strong>Time: </strong> {{event.time}}</div>
   </div>
+  <div class="span4">
+    <address><strong>Address: </strong> <br />
+      {{event.location.address}}<br />
+      {{event.location.city}}, {{event.location.province}}
+    </address>
+  </div>
+</div>
 
-  <hr>
+<hr>
 
-  <h3>Sessions</h3>
-  <form class="form-horizontal">
-    Order By:
-    <select ng-model="sortOrder" class="input-small">
-      <option value="name">Name</option>
-      <option value="-upVoteCount">Votes</option>
-    </select>
-    Show:
-    <select ng-model="query.level" class="input-medium">
-      <option value="">All</option>
-      <option value="Introductory">Introductory</option>
-      <option value="Intermediate">Intermediate</option>
-      <option value="Advanced">Advanced</option>
-    </select>
-  </form>
-  <ul class="thumbnails">
-    <li ng-repeat="session in event.sessions | orderBy:sortOrder | filter: query" id="session{{session.id}}">
-      <div class="row session">
-        <div class="span0 well votingWidget">
-          <div class="votingButton" ng-click="upVoteSession(session)">
-            <i class="icon-chevron-up icon-white"></i>
-          </div>
-          <div class="badge badge-inverse">
-            <div>{{session.upVoteCount}}</div>
-          </div>
-          <div class="votingButton" ng-click="downVoteSession(session)">
-            <i class="icon-chevron-down"></i>
-          </div>
+<h3>Sessions</h3>
+<form class="form-horizontal">
+  Order By:
+  <select ng-model="sortOrder" class="input-small">
+    <option value="name">Name</option>
+    <option value="-upVoteCount">Votes</option>
+  </select>
+  Show:
+  <select ng-model="query.level" class="input-medium">
+    <option value="">All</option>
+    <option value="Introductory">Introductory</option>
+    <option value="Intermediate">Intermediate</option>
+    <option value="Advanced">Advanced</option>
+  </select>
+</form>
+<ul class="thumbnails">
+  <li ng-repeat="session in event.sessions | orderBy:sortOrder | filter: query" id="session{{session.id}}">
+    <div class="row session">
+      <div class="span0 well votingWidget">
+        <div class="votingButton" ng-click="upVoteSession(session)">
+          <i class="icon-chevron-up icon-white"></i>
         </div>
-        <div class="well span9">
-          <h4 class="well-title">{{session.name}}</h4>
-          <h6 style="margin-top: -10px;">{{session.creatorName}}</h6>
-          <span>Duration: {{session.duration | durations}}</span><br>
-          <span>Level: {{session.level}}</span>
-
-          <p>{{session.abstract}}</p>
+        <div class="badge badge-inverse">
+          <div>{{session.upVoteCount}}</div>
+        </div>
+        <div class="votingButton" ng-click="downVoteSession(session)">
+          <i class="icon-chevron-down"></i>
         </div>
       </div>
-    </li>
-  </ul>
-</div>
+      <div class="well span9">
+        <h4 class="well-title">{{session.name}}</h4>
+        <h6 style="margin-top: -10px;">{{session.creatorName}}</h6>
+        <span>Duration: {{session.duration | durations}}</span><br>
+        <span>Level: {{session.level}}</span>
+
+        <p>{{session.abstract}}</p>
+      </div>
+    </div>
+  </li>
+</ul>

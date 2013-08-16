@@ -7,6 +7,7 @@
     return {
       getEvent: function(eventId){
         var deferred = $q.defer();
+
         resource.get({id: eventId},
           function(event){
             deferred.resolve(event);

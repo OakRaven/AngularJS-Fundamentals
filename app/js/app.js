@@ -3,7 +3,7 @@ var eventsApp = {};
 (function(){
   'use strict';
   eventsApp = angular.module('eventsApp', ['ngResource'])
-    .config(function($routeProvider){
+    .config(function($routeProvider, $locationProvider){
       $routeProvider.when('/newEvent', {
         templateUrl: 'templates/NewEvent.html',
         controller: 'EditEventController'
@@ -16,11 +16,20 @@ var eventsApp = {};
 
       $routeProvider.when('/event/:eventId', {
         templateUrl: 'templates/EventDetails.html',
-        controller: 'EventController'
+        controller: 'EventController',
+        resolve: {
+          event: function($q, $route, eventData) {
+            var deferred = $q.defer();
+            eventData.getEvent($route.current.pathParams.eventId)
+              .then(function(event){ deferred.resolve(event); });
+            return deferred.promise;
+          }
+        }
       });
 
       $routeProvider.otherwise({
         redirectTo: '/events'
       });
+
     });
 }());
