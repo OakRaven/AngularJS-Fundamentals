@@ -14,6 +14,15 @@ var eventsApp = {};
         controller: 'EventListController'
       });
 
+      $routeProvider.when('/editProfile', {
+        templateUrl: 'templates/EditProfile.html',
+        controller: 'EditProfileController'
+      });
+
+      $routeProvider.when('/about', {
+        template: '<h1>About Events:</h1>Version: 0.8<br/>&copy; 2013 Mike Hatfield'
+      });
+
       $routeProvider.when('/event/:eventId', {
         templateUrl: 'templates/EventDetails.html',
         controller: 'EventController',
