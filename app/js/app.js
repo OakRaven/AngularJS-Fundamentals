@@ -23,6 +23,11 @@ var eventsApp = {};
         template: '<h1>About Events:</h1>Version: 0.8<br/>&copy; 2013 Mike Hatfield'
       });
 
+      $routeProvider.when('/sampleDirective', {
+        templateUrl: 'templates/SampleDirective.html',
+        controller: 'SampleDirectiveController'
+      });
+
       $routeProvider.when('/event/:eventId', {
         templateUrl: 'templates/EventDetails.html',
         controller: 'EventController',
