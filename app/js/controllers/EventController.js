@@ -11,7 +11,9 @@
       };
 
       $scope.downVoteSession = function(session){
-        session.upVoteCount--;
+        if(session.upVoteCount > 0){
+          session.upVoteCount--;
+        }
       };
     }
   );
