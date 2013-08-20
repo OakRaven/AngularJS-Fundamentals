@@ -5,8 +5,13 @@
     return {
       restrict: 'A',
       link: function(scope, element, attrs, controller){
-        element.on('keydown', function(evt){
-
+        element.on('keydown', function(event){
+          if(isNumericKeyCode(event.keyCode) ||
+            isForwardSlashKeyCode(event.keyCode) ||
+            isNavigationKeyCode(event.keyCode)){
+            return true;
+          }
+          return false;
         });
       }
     };
@@ -22,6 +27,7 @@
     function isNavigationKeyCode(keyCode){
       switch(keyCode){
         case 8:   // backspace
+        case 9:   // tab
         case 35:  // end
         case 36:  // home
         case 37:  // left
